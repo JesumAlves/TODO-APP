@@ -45,5 +45,3 @@
 <h3>Página inicial do TodoApp sem Projetos e Tarefas cadastrados</h3>
 <div align=center><img src="https://i.imgur.com/2BiPmpA.png" alt="Página home do TodoApp"></div>
 
-<h3>Página inicial do TodoApp com Projetos e Tarefas cadastrados</h3>
-<div align=center><img src="https://i.imgur.com/ufh3INC.png" alt="Página home do TodoApp"></div>
