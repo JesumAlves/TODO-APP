@@ -1,18 +1,11 @@
-<h1>TodoApp</h1>
-
-<p>Um projeto realizado através do programa ##Start By Capgemini##, com o objetivo de
-    aprimorar os conhecimento em Lógica de Programação, Banco de Dados, Java, Orientação
-    a Objetos, Interfaces Gráficas e implementar as operações básicas de um CRUD (create, read, update, delete)
-</p>
-
 <h3>Definição do Projeto</h3>
 <h4>Descrição</h4>
 <p>Aplicação para o gerenciamento de projetos e tarefas</p>
 
 <h4>Objetivo</h4>
-<p>Garantir a organização e entregas no prazo</p>
+<p>Organizar a Agenda de Projetos Pessoais ou Não, Otimizando seus horários. </p>
 
-<h3>Requisitos do Projeto</h3>
+<h3>Requisitos</h3>
 <h4>Entidades</h4>
 <ul>
     <h4>Projeto:</h4>
@@ -32,7 +25,7 @@
     <li>Data de atualização</li>
 </ul>
 
-<h4>Tecnologias Utilizadas</h4>
+<h4>Tecnologias</h4>
 <ul>
     <li>Java</li>
     <li>Java Swing</li>
@@ -40,8 +33,5 @@
 </ul>
 
 <h4>Interface Gráfica</h4>
-<p>Foi utilizado o Swing Framework para compor os elementos gráficos disponíveis na aplicação</p>
-
 <h3>Página inicial do TodoApp sem Projetos e Tarefas cadastrados</h3>
 <div align=center><img src="https://i.imgur.com/2BiPmpA.png" alt="Página home do TodoApp"></div>
-
